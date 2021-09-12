@@ -150,6 +150,8 @@ footer {
 .contact-list a {
   padding: 15px;
   display: inline-block;
+  color: #eef0f1;
+  text-decoration: none;
 }
 
 /* Responsive
